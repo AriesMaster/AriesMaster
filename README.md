@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm AriesMaster</h1>
+<h1 align="center">AriesMaster</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/AriesMaster?v=4" width="120" alt="AriesMaster's avatar" /><br/>
@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🛠️ Working with: <b>JavaScript, TypeScript, Python, Go</b>
+- 🛠️ Working with: <b>JavaScript, TypeScript, Python</b>
 - 🌱 Currently learning: <b>Next.js, AI/ML, and Cloud Technologies</b>
 - 🎯 Focused on: <b>Building impactful software and contributing to open source</b>
 - 💬 Ask me about: <b>Web development, automation, backend systems</b>
