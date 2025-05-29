@@ -1,7 +1,7 @@
 <h1 align="center">AriesMaster</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/AriesMaster?v=4" width="120" alt="AriesMaster's avatar" /><br/>
+ 
   <b>Software Developer | Open Source Enthusiast | Lifelong Learner</b>
 </p>
 
