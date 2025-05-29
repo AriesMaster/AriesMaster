@@ -1,7 +1,6 @@
 <h1 align="center">AriesMaster</h1>
 
 <p align="center">
- 
   <b>Software Developer | Open Source Enthusiast | Lifelong Learner</b>
 </p>
 
