@@ -1,7 +1,7 @@
 <h1 align="center">AriesMaster</h1>
 
 <p align="center">
-  <b>Software Developer | Open Source Enthusiast | Lifelong Learner</b>
+  <b>Full Stack Software Developer | Open Source Enthusiast | Lifelong Learner | Angular | Asp.net | SQL Server</b>
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🛠️ Working with: <b>JavaScript, TypeScript, Python</b>
-- 🌱 Currently learning: <b>Next.js, AI/ML, and Cloud Technologies</b>
+- 🛠️ Working with: <b>C# ,TypeScript, Rest APIs, SQl Server, EF core , Angular and Asp.net web API</b>
+- 🌱 Currently learning: <b>Continuous integration (CI) and continuous deployment (CD), AI/ML, and Cloud Technologies</b>
 - 🎯 Focused on: <b>Building impactful software and contributing to open source</b>
 - 💬 Ask me about: <b>Web development, automation, backend systems</b>
 - 🤝 Open to collaborations and interesting projects!
