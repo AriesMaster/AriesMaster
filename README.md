@@ -13,17 +13,17 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
-- 🛠️ Working with: <b>C# ,TypeScript, Rest APIs, SQl Server, EF core , Angular and Asp.net web API</b>
-- 🌱 Currently learning: <b>Continuous integration (CI) and continuous deployment (CD), AI/ML, and Cloud Technologies</b>
-- 🎯 Focused on: <b>Building impactful software and contributing to open source</b>
-- 💬 Ask me about: <b>Web development, automation, backend systems</b>
-- 🤝 Open to collaborations and interesting projects!
+-  Working with: <b>C# ,TypeScript, Rest APIs, SQl Server, EF core , Angular and Asp.net web API</b>
+-  Currently learning: <b>Continuous integration (CI) and continuous deployment (CD), AI/ML, and Cloud Technologies</b>
+- Focused on: <b>Building impactful software and contributing to open source</b>
+-  Ask me about: <b>Web development, automation, backend systems</b>
+-  Open to collaborations and interesting projects!
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,java,html,css,nodejs,react,nextjs,mysql,docker,linux,git,github,vscode,visualstudio" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AriesMaster&show_icons=true&theme=github_dark" height="150" />
@@ -42,7 +42,7 @@
 
 ---
 
-### 🔗 Connect with Me
+###  Connect with Me
 
 <p>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-Email-blue?style=flat&logo=gmail" alt="Email"/></a>
