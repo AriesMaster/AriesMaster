@@ -45,9 +45,7 @@
 ###  Connect with Me
 
 <p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-Email-blue?style=flat&logo=gmail" alt="Email"/></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-Follow-blue?style=flat&logo=twitter" alt="Twitter"/></a>
   <!-- Add more social links as needed -->
 </p>
 
