@@ -27,7 +27,7 @@
 ## Featured Interests / Projects
 
 - Full-stack web applications (Angular + ASP.NET Core Web API)
-- Role-based systems (Admin / User / Scheduler systems)
+- Role-based systems 
 - RESTful API design with clean architecture
 - Database-driven enterprise applications
 
