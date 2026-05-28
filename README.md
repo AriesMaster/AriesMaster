@@ -1,38 +1,41 @@
 <h1 align="center">AriesMaster</h1>
 
 <p align="center">
-  <b>Full Stack Software Developer| Angular | Asp.net | SQL Server</b>
+  <b>Full Stack Software Developer | Angular | ASP.NET Core | SQL Server</b>
 </p>
 
 ---
 
-###  About Me
+## About Me
 
--  Working with: <b>C# ,TypeScript, Rest APIs, SQl Server, EF core , Angular and Asp.net web API</b>
--  Currently learning: <b>Continuous integration (CI) and continuous deployment (CD), AI/ML, and Cloud Technologies</b>
-- Focused on: <b>Building impactful software and contributing to open source</b>
--  Ask me about: <b>Web development, automation, backend systems</b>
--  Open to collaborations and interesting projects!
+- Working with: C#, TypeScript, REST APIs, SQL Server, Entity Framework Core, Angular, ASP.NET Core
+- Currently learning: CI/CD, Cloud Deployment (Azure), and AI Integration in Web Apps
+- Focused on: Building scalable full-stack systems and real-world business applications
+- Ask me about: Web development, backend architecture, and API design
+- Open to collaboration on impactful software projects
 
 ---
 
-###  Tech Stack
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,nodejs,react,nextjs,mysql,docker,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,html,css,angular,dotnet,azure,git,github,vscode,visualstudio,sqlserver" />
 </p>
 
 ---
 
-###  GitHub Stats
+## Featured Interests / Projects
+
+- Full-stack web applications (Angular + ASP.NET Core Web API)
+- Role-based systems (Admin / User / Scheduler systems)
+- RESTful API design with clean architecture
+- Database-driven enterprise applications
+
+---
+
+## GitHub Stats
 
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=AriesMaster&show_icons=true&theme=github_dark" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriesMaster&theme=github-dark-blue" height="150" />
-  <br/>
 </p>
-
-
-<!--
--->
