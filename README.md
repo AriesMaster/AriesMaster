@@ -1,7 +1,7 @@
 <h1 align="center">AriesMaster</h1>
 
 <p align="center">
-  <b>Full Stack Software Developer | Open Source Enthusiast | Lifelong Learner | Angular | Asp.net | SQL Server</b>
+  <b>Full Stack Software Developer| Angular | Asp.net | SQL Server</b>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ###  Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,nodejs,react,nextjs,mysql,docker,linux,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,nodejs,react,nextjs,mysql,docker,git,github,vscode,visualstudio" />
 </p>
 
 ---
