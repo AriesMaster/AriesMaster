@@ -26,7 +26,7 @@
 ###  Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,nodejs,react,nextjs,mysql,docker,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,angular,nodejs,react,nextjs,mysql,docker,git,github,vscode,visual studio" />
 </p>
 
 ---
@@ -40,17 +40,6 @@
   <br/>
 </p>
 
----
-
-###  Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <!-- Add more social links as needed -->
-</p>
-
----
 
 <!--
-**AriesMaster/AriesMaster** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile!
 -->
