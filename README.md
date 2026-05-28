@@ -4,13 +4,6 @@
   <b>Full Stack Software Developer| Angular | Asp.net | SQL Server</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AriesMaster">
-    <img src="https://img.shields.io/github/followers/AriesMaster?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <!-- Add more badges as needed -->
-</p>
-
 ---
 
 ###  About Me
@@ -26,7 +19,7 @@
 ###  Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,angular,nodejs,react,nextjs,mysql,docker,git,github,vscode,visual studio" />
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,nodejs,react,nextjs,mysql,docker,git,github,vscode,visualstudio" />
 </p>
 
 ---
