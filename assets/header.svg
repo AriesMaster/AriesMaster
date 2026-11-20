@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Thabo Tankiso Mavundza, Junior Full-Stack Software Developer">
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.15" fill="#cbd5e1"/></pattern></defs>
+<rect width="1100" height="300" fill="#fff"/><rect width="1100" height="300" fill="url(#dots)"/>
+<rect x="35" y="25" width="1030" height="250" rx="20" fill="#fff" stroke="#e5e7eb" stroke-width="2"/>
+<text x="550" y="79" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="19" font-weight="600" fill="#3b82f6">HELLO, I'M</text>
+<text x="550" y="133" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="40" font-weight="700" fill="#111827">Thabo Tankiso Mavundza</text>
+<text x="550" y="172" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="24" font-weight="500" fill="#334155">Junior Full-Stack Software Developer</text>
+<text x="550" y="208" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="18" fill="#64748b">Angular  ·  ASP.NET Core  ·  C#  ·  TypeScript  ·  SQL Server</text>
+<rect x="397" y="226" width="306" height="28" rx="14" fill="#eff6ff"/>
+<text x="550" y="245" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="14" font-weight="600" fill="#2563eb">DESIGN  ·  DEVELOP  ·  DEPLOY</text>
+</svg>
