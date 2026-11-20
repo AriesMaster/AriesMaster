@@ -81,16 +81,6 @@ Professional full-stack application designed to replace manual scheduling workfl
 
 *Professional project; source code is not linked publicly.*
 
-## Professional Experience
-
-**Software Developer  — Scenivision (Pty) Ltd**  
-*April 2025 – April 2026*
-
-- Developed and integrated Angular frontend components with ASP.NET Core Web APIs.
-- Implemented business logic, REST endpoints, and relational database models with EF Core and SQL Server.
-- Worked on authentication, authorization, scheduling, approvals, and real-time notifications.
-- Tested and debugged APIs using Postman and Swagger; used Git and Azure DevOps for development workflows.
-
 ## Currently Learning & Building
 
 ```text
