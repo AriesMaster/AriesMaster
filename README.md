@@ -83,7 +83,7 @@ Professional full-stack application designed to replace manual scheduling workfl
 
 ## Professional Experience
 
-**Software Developer Intern — Scenivision (Pty) Ltd**  
+**Software Developer  — Scenivision (Pty) Ltd**  
 *April 2025 – April 2026*
 
 - Developed and integrated Angular frontend components with ASP.NET Core Web APIs.
