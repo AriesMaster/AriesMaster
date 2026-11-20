@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thabo-mavundza)
 [![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thabotankisomavundza@gmail.com)
 
-**1 year of professional development experience** · **BSc Information Technology** · **Gauteng, South Africa**
+ **BSc Information Technology** · **Gauteng, South Africa**
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a **Junior Full-Stack Software Developer** with **1 year of professional software development experience** and a **BSc in Information Technology**, majoring in Software Development.
+I'm a **Junior Full-Stack Software Developer** with **professional software development experience** and a **BSc in Information Technology**, majoring in Software Development.
 
 I develop database-driven applications using **Angular, TypeScript, C#, ASP.NET Core Web APIs, Entity Framework Core, and SQL Server**. My work spans requirements analysis, frontend development, backend services, relational data modelling, authentication and authorization, API testing, and debugging.
 
