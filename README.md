@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Thabo Tankiso Mavundza — Junior Full-Stack Software Developer" width="100%" />
+<img src="./assets/header.svg" alt="Thabo  Mavundza — Junior Full-Stack Software Developer" width="100%" />
 
 <br />
 
