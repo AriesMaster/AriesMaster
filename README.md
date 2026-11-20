@@ -12,11 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thabo-mavundza)
 [![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thabotankisomavundza@gmail.com)
 
- **BSc Information Technology** · **Gauteng, South Africa**
 
 </div>
-
-<img src="./assets/divider.svg" width="100%" alt="Section divider" />
 
 ## About Me
 
