@@ -59,28 +59,6 @@ C# · TypeScript · JavaScript · Java · Python · C++
 | **Computing fundamentals** | Operating Systems, Computer Networks, Discrete Mathematics |
 | **Data & decision making** | Data Analytics, Statistics, Decision Support Systems |
 
-## Featured Projects
-
-### BrightSmile Dental — Full-Stack Appointment Platform
-
-A portfolio application built with **Angular, ASP.NET Core Web API, EF Core, and Supabase PostgreSQL**, with a role-based architecture for **Admin, Dentist, and Patient** users.
-
-**Implemented foundations:** Registration and login, JWT authentication, role-based authorization, password-reset endpoints, database models and migrations, and frontend deployment.
-
-**In progress:** Expanding the role-specific dashboards and appointment workflows.
-
-[**Live frontend**](https://brightsmiledentalfrontend.netlify.app) · [**Frontend repository**](https://github.com/AriesMaster/BrightSmileDentalFrontEnd) · [**Backend repository**](https://github.com/AriesMaster/BrightSmileDentalBackEnd)
-
-### SceniSchedule — Support Agent Scheduling System
-
-Professional full-stack application designed to replace manual scheduling workflows with structured scheduling, approval, and notification processes.
-
-**Technologies:** Angular · ASP.NET Core · C# · SQL Server · EF Core · SignalR
-
-**Engineering contributions:** Scheduling management, JWT authentication, role-based permissions, change requests and approvals, real-time notification counts, conflict handling, and email/calendar integrations.
-
-*Professional project; source code is not linked publicly.*
-
 ## Currently Learning & Building
 
 ```text
