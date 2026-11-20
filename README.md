@@ -112,16 +112,3 @@ AI & MCP                   →  Explore AI-enabled application workflows
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="Section divider" />
-
-<div align="center">
-
-### Let's Connect
-
-I enjoy collaborating on practical software solutions and continuously improving as an engineer.
-
-[**Portfolio**](https://thabo.netlify.app) · [**LinkedIn**](https://linkedin.com/in/thabo-mavundza) · [**Email**](mailto:thabotankisomavundza@gmail.com)
-
-**Design · Develop · Debug · Deploy · Improve**
-
-</div>
