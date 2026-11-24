@@ -15,12 +15,12 @@
 
 I'm a **Junior Full-Stack Software Developer** with **professional software development experience** and a **BSc in Information Technology**, majoring in Software Development.
 
-I develop database-driven applications using **Angular, TypeScript, C#, ASP.NET Core Web APIs, Entity Framework Core, and SQL Server**. My work spans requirements analysis, frontend development, backend services, relational data modelling, authentication and authorization, API testing, and debugging.
+I develop database-driven applications using **Angular, TypeScript, C#, ASP.NET Core Web APIs, Entity Framework Core, and SQL Server**. I am also expanding my backend development experience with Java, Spring Boot, Spring Data JPA, Hibernate and Flyway through StockFlow. My work spans requirements analysis, frontend development, backend services, relational data modelling, authentication and authorization, API testing, and debugging.
 
 I bring a strong software engineering foundation in **object-oriented programming, data structures and algorithms, systems analysis and design, database systems, and information security**. I enjoy learning new technologies and turning business requirements into maintainable software.
 
 - **I build:** Responsive web applications, RESTful APIs, and role-based business systems.
-- **I work with:** Angular, ASP.NET Core, EF Core, SQL Server, PostgreSQL, Git, and Azure DevOps.
+- **I work with:** Angular, ASP.NET Core, EF Core, SQL Server, PostgreSQL, Git, and Azure DevOps; I am building practical Spring Boot experience.
 - **I'm exploring:** Docker, CI/CD, Azure deployment, software architecture, and AI integration.
 - **I'm open to:** Junior full-stack, backend, and software developer opportunities.
 
@@ -38,11 +38,19 @@ Angular Material · Reactive Forms · Routing · Guards · Interceptors · Respo
 
 REST APIs · Entity Framework Core · LINQ · Dependency Injection · Role-Based Access Control · SignalR · SMTP
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**Project-based Java experience:** Spring Boot · Spring Data JPA · Hibernate configuration · Maven · Flyway · Actuator · Domain modelling · Problem Details
+
 ### Databases & Tools
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-GitHub · Visual Studio · VS Code · Swagger/OpenAPI · EF Core Migrations
+GitHub · Visual Studio · VS Code · IntelliJ IDEA · Swagger/OpenAPI · EF Core Migrations · HikariCP
+
+### Testing
+
+JUnit · Vitest · Spring Boot Test · API testing with Postman · Unit testing and business-rule validation
 
 ### Programming Languages
 
@@ -59,9 +67,25 @@ C# · TypeScript · JavaScript · Java · Python · C++
 | **Computing fundamentals** | Operating Systems, Computer Networks, Discrete Mathematics |
 | **Data & decision making** | Data Analytics, Statistics, Decision Support Systems |
 
+## Featured Projects
+
+### BrightSmileDental — Dental Appointment Management
+
+Full-stack portfolio application using Angular, ASP.NET Core Web API, EF Core and Supabase PostgreSQL. Includes role-based workflows for administrators, dentists and patients.
+
+[Live application](https://brightsmiledentalfrontend.netlify.app) · [Frontend](https://github.com/AriesMaster/BrightSmileDentalFrontEnd) · [Backend and documentation](https://github.com/AriesMaster/BrightSmileDentalBackEnd)
+
+### StockFlow — Stock and Purchase Order Management
+
+Active full-stack portfolio project using Angular 22, Java 21-targeted Spring Boot, PostgreSQL, Hibernate and Flyway. Implemented purchase order domain rules, exception mapping, database migrations and frontend HTTP infrastructure. Local backend health and frontend production build verified; latest reported test runs passed 13 JUnit and 4 Vitest tests. JPA mappings, transactional receipt processing and business endpoints are in development.
+
+[Frontend](https://github.com/AriesMaster/StockPurchaseOrderFrontend) · [Backend](https://github.com/AriesMaster/StockPurchaseOrderBackend) · [System design](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/system-design.md) · [Database design](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/database-design.md) · [Technical specification](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/technical-specification.md)
+
 ## Currently Learning & Building
 
 ```text
+Java & Spring Boot         →  Build a second backend technology stack
+Automated testing          →  Strengthen unit and integration testing skills
 Docker & containerization  →  Package full-stack applications
 CI/CD pipelines            →  Automate builds, tests, and deployments
 Microsoft Azure            →  Develop cloud deployment experience
