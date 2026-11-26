@@ -77,7 +77,7 @@ Full-stack portfolio application using Angular, ASP.NET Core Web API, EF Core an
 
 ### StockFlow — Stock and Purchase Order Management
 
-Active full-stack portfolio project using Angular 22, Java 21-targeted Spring Boot, PostgreSQL, Hibernate and Flyway. Implemented purchase order domain rules, exception mapping, database migrations and frontend HTTP infrastructure. Local backend health and frontend production build verified; latest reported test runs passed 13 JUnit and 4 Vitest tests. JPA mappings, transactional receipt processing and business endpoints are in development.
+Active full-stack portfolio project using Angular 22, Java 21-targeted Spring Boot, PostgreSQL, Hibernate and Flyway. Implemented purchase order domain rules, exception mapping, database migrations and frontend HTTP infrastructure. Local verification includes backend health, a Maven build that passed 38 backend tests, and an Angular production build with 20 Vitest tests on the authentication feature branch. Transactional receipt processing and business endpoints are in development.
 
 [Frontend](https://github.com/AriesMaster/StockPurchaseOrderFrontend) · [Backend](https://github.com/AriesMaster/StockPurchaseOrderBackend) · [System design](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/system-design.md) · [Database design](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/database-design.md) · [Technical specification](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/technical-specification.md)
 
