@@ -48,7 +48,7 @@ REST APIs · Entity Framework Core · LINQ · Dependency Injection · Role-Based
 
 GitHub · Visual Studio · VS Code · IntelliJ IDEA · Swagger/OpenAPI · EF Core Migrations · HikariCP
 
-**Development environment:** Docker (containerization fundamentals) · Linux via Windows Subsystem for Linux (WSL 2)
+**Development environment:** Docker (multi-stage builds and containers) · WSL 2 (Linux container environment) · GitHub Actions · Render · Netlify
 
 ### Testing
 
@@ -79,7 +79,9 @@ Full-stack portfolio application using Angular, ASP.NET Core Web API, EF Core an
 
 ### StockFlow — Stock and Purchase Order Management
 
-Active full-stack portfolio project using Angular 22, Java 21-targeted Spring Boot, PostgreSQL, Hibernate and Flyway. Implemented purchase order domain rules, exception mapping, database migrations and frontend HTTP infrastructure. Local verification includes backend health, a Maven build that passed 38 backend tests, and an Angular production build with 20 Vitest tests on the authentication feature branch. Transactional receipt processing and business endpoints are in development.
+Active full-stack portfolio project using Angular 22, Java 21-targeted Spring Boot, PostgreSQL, Hibernate and Flyway. Implemented purchase order domain rules, exception mapping, database migrations and frontend HTTP infrastructure. Local verification includes backend health, a Maven build that passed 62 backend tests, and an Angular production build with 30 Vitest tests on the authentication feature branch. Transactional receipt processing and business endpoints are in development. Both cloud deployments are published; backend health is verified, while API proxy and browser authentication verification remain pending.
+
+[Live StockFlow preview](https://stockflow-management.netlify.app/) · [Backend health](https://stockflow-backend-5cke.onrender.com/actuator/health)
 
 [Frontend](https://github.com/AriesMaster/StockPurchaseOrderFrontend) · [Backend](https://github.com/AriesMaster/StockPurchaseOrderBackend) · [System design](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/system-design.md) · [Database design](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/database-design.md) · [Technical specification](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/technical-specification.md)
 
