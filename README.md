@@ -52,7 +52,7 @@ GitHub · Visual Studio · VS Code · IntelliJ IDEA · Swagger/OpenAPI · EF Cor
 
 ### Testing
 
-JUnit · Vitest · Spring Boot Test · API testing with Postman · Unit testing and business-rule validation
+JUnit · Mockito · MockMvc · Testcontainers · Vitest · Spring Boot Test · API testing with Postman · Unit testing and business-rule validation
 
 ### Programming Languages
 
@@ -79,11 +79,11 @@ Full-stack portfolio application using Angular, ASP.NET Core Web API, EF Core an
 
 ### StockFlow — Stock and Purchase Order Management
 
-Active full-stack portfolio project using Angular 22, Java 21-targeted Spring Boot, PostgreSQL, Hibernate and Flyway. Implemented purchase order domain rules, exception mapping, database migrations and frontend HTTP infrastructure. Local verification includes backend health, a Maven build that passed 62 backend tests, and an Angular production build with 30 Vitest tests on the authentication feature branch. Transactional receipt processing and business endpoints are in development. Both cloud deployments are published; backend health is verified, while API proxy and browser authentication verification remain pending.
+Active full-stack portfolio project using Angular 22, Java 21-targeted Spring Boot, PostgreSQL, Hibernate and Flyway. Implemented authentication, role-based employee management, supplier REST API and Angular supplier directory, alongside purchase order domain rules. Local verification on 26 November 2026: 98 backend tests and 66 frontend tests passed (164 combined); both builds succeeded. Authentication and administrator employee management were exercised locally. Supplier API integration tests passed; Angular supplier interface compiled, but dedicated frontend supplier tests and browser acceptance remain pending. Four role accounts were provisioned locally; full role-by-role browser verification and isolated public demo protection remain pending. Cloud preview and API proxy CSRF response were verified earlier; latest feature deployment and full cloud workflows have not been reverified.
 
 [Live StockFlow preview](https://stockflow-management.netlify.app/) · [Backend health](https://stockflow-backend-5cke.onrender.com/actuator/health)
 
-[Frontend](https://github.com/AriesMaster/StockPurchaseOrderFrontend) · [Backend](https://github.com/AriesMaster/StockPurchaseOrderBackend) · [System design](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/system-design.md) · [Database design](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/database-design.md) · [Technical specification](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/main/docs/technical-specification.md)
+[Frontend](https://github.com/AriesMaster/StockPurchaseOrderFrontend) · [Backend](https://github.com/AriesMaster/StockPurchaseOrderBackend) · [System design](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/feature/auth-persistence/docs/system-design.md) · [Database design](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/feature/auth-persistence/docs/database-design.md) · [Technical specification](https://github.com/AriesMaster/StockPurchaseOrderBackend/blob/feature/auth-persistence/docs/technical-specification.md)
 
 ## Currently Learning & Building
 
