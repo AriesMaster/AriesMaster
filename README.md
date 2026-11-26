@@ -21,7 +21,7 @@ I bring a strong software engineering foundation in **object-oriented programmin
 
 - **I build:** Responsive web applications, RESTful APIs, and role-based business systems.
 - **I work with:** Angular, ASP.NET Core, EF Core, SQL Server, PostgreSQL, Git, and Azure DevOps; I am building practical Spring Boot experience.
-- **I'm exploring:** Docker, CI/CD, Azure deployment, software architecture, and AI integration.
+- **I'm exploring:** CI/CD, Azure deployment, software architecture, and AI integration.
 - **I'm open to:** Junior full-stack, backend, and software developer opportunities.
 
 ## Technical Skills
@@ -47,6 +47,8 @@ REST APIs · Entity Framework Core · LINQ · Dependency Injection · Role-Based
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 GitHub · Visual Studio · VS Code · IntelliJ IDEA · Swagger/OpenAPI · EF Core Migrations · HikariCP
+
+**Development environment:** Docker (containerization fundamentals) · Linux via Windows Subsystem for Linux (WSL 2)
 
 ### Testing
 
